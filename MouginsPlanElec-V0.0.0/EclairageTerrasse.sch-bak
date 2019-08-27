@@ -166,4 +166,38 @@ Text Label 6600 3400 0    50   ~ 0
 0VDC-Noir-1,5mm²
 Text Label 6600 3300 0    50   ~ 0
 +12VDC-Rouge-1,5mm²
+Wire Notes Line
+	4750 1050 4750 1450
+Wire Notes Line
+	4750 1450 4350 1450
+Wire Notes Line
+	4350 1450 4350 1050
+Text Notes 4350 1150 0    50   Italic 10
+(1)
+Wire Notes Line
+	4350 1050 4750 1050
+Text Notes 550  6900 0    50   Italic 10
+(1)
+Text Notes 650  6900 0    50   ~ 0
+ : Boitier Dérivation dans le salon pour répartir haut et bas
+Text Notes 4300 2450 0    50   Italic 10
+(2)
+Wire Notes Line
+	4700 2350 4700 2700
+Wire Notes Line
+	4700 2700 4250 2700
+Wire Notes Line
+	4250 2700 4250 2350
+Wire Notes Line
+	4250 2350 4700 2350
+Text Notes 550  7050 0    50   Italic 10
+(2)
+Text Notes 650  7050 0    50   ~ 0
+ : Boitier Dérivation étanche sur la terrasse qui contient aussi l'ESP de contrôle, convertisseur AC/DC, etc.
+Text Notes 550  7200 0    50   Italic 10
+(3)
+Text Notes 650  7200 0    50   ~ 0
+ : Boitier Dérivation étanche sur la terrasse en haut qui contient le convertisseur AC/DC
+Text Notes 5250 1700 0    50   Italic 10
+(3)
 $EndSCHEMATC
